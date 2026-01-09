@@ -35,9 +35,10 @@ python manage.py test
 The following extensions are automatically installed:
 - Python
 - Pylance
+- Black Formatter
+- Pylint
 - Django
 - Jinja
-- Black Formatter
 
 ## Features
 
